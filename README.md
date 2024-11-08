@@ -52,4 +52,4 @@ Our AES-128 implementation on the Xilinx Zynq ZedBoard demonstrates how FPGAs ca
 
 ---
 
-**Author**: Kushagra Singh
+
