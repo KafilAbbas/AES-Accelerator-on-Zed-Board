@@ -5,6 +5,9 @@ The Advanced Encryption Standard (AES), standardized by NIST in 2001, is a widel
 
 For this project, we implemented the AES-128 variant, which uses a 128-bit key, providing an ideal balance between security and speed. By processing fixed-size data blocks through multiple rounds of substitution, permutation, and transformation, AES-128 offers robust protection for a wide range of applications.
 
+## Original Reference 
+https://github.com/michaelehab/AES-Verilog
+
 ## Project Goals
 1. **Implement AES-128 on an FPGA** - Utilize the parallel processing capabilities of an FPGA to optimize encryption speed and efficiency.
 2. **Leverage Xilinx Zynq ZedBoard** - Use the FPGA resources of the Zynq ZedBoard for high-speed encryption.
